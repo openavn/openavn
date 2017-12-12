@@ -4,7 +4,7 @@
 
 Crowdsourced Realtime Malware Protection based on Blockchain
 
-This is the current Alpha version of the OpenAVN Thin Client Utility. Several parts of the OpenAVN API are currently invite-only and would require you to signup at [Alpha](https://alpha.openavn.org) before using them. Hit us up over at [Gitter](https://gitter.im/OpenAVN/OpenAVN) to request a developer licence to collaborate with us!
+This is the current Alpha version of the OpenAVN Thin Client Utility. The OpenAVN Blockchain and it's API's are currently invite-only and would require you to signup at [Alpha](https://alpha.openavn.org) before using them. Hit us up over at [Gitter](https://gitter.im/OpenAVN/OpenAVN) to request an invite to collaborate with us!
 
 ## To Use
 
