@@ -2,9 +2,9 @@
 
 [![Join the chat at https://gitter.im/OpenAVN/OpenAVN](https://badges.gitter.im/OpenAVN/OpenAVN.svg)](https://gitter.im/OpenAVN/OpenAVN?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Crowdsourced Realtime Malware Protection based on Blockchain
+Crowdsourced Realtime Malware Protection based on Blockchain and AI
 
-This is the current Alpha version of the OpenAVN Thin Client Utility. The OpenAVN Blockchain and it's API's are currently invite-only and would require you to signup at [Alpha](https://alpha.openavn.org) before using them. Hit us up over at [Gitter](https://gitter.im/OpenAVN/OpenAVN) to request an invite to collaborate with us!
+The OpenAVN TestNet and it's APIs are currently invite-only and would require you to signup at [Beta Access Form](https://docs.google.com/forms/d/e/1FAIpQLSeQdjseKkwklP5VR9SCbmwVVBhP3rZOVf5HDLb-SPhjazRVfQ/viewform) before using them. Hit us up over at [Gitter](https://gitter.im/OpenAVN/OpenAVN) to request an invite to collaborate with us!
 
 ## To Use
 
