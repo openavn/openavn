@@ -1,4 +1,5 @@
-# OpenAVN
+![](https://lh5.googleusercontent.com/PtT7fJjMRgjLkhlU_KFZeGxeeYNMH4DKVVHlbhh9qq2x6RYuL4J7o0XV9S2ZcSfks5NlB3xox9lhvcEaDT6ExBAo8ZcMT8E08sGGVpH_hEP7uvxbRjCHnc3GIS30=w200)
+# OpenAVN - Open Anti-Virus Network
 
 [![Join the chat at https://gitter.im/OpenAVN/OpenAVN](https://badges.gitter.im/OpenAVN/OpenAVN.svg)](https://gitter.im/OpenAVN/OpenAVN?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
