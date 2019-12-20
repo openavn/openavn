@@ -10,4 +10,3 @@ The OpenAVN TestNet and it's APIs are currently invite-only and would require yo
 # [Apply here for invite](https://docs.google.com/forms/d/e/1FAIpQLSeQdjseKkwklP5VR9SCbmwVVBhP3rZOVf5HDLb-SPhjazRVfQ/viewform)
 
 Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
-
